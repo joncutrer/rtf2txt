@@ -2,7 +2,7 @@
 name = "rtf2txt"
 version = "0.2.4"
 description = "A simple command line tool to convert rtf files to plain text."
-authors = ["Jonathan Cutrer <you@example.com>"]
+authors = ["Jonathan Cutrer <joncutrer@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
