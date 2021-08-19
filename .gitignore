@@ -8,9 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -26,3 +24,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 tests/*.txt
+dist/
+!dist/.gitkeep
+build/
+!build/.gitkeep
