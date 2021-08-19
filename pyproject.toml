@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "rtf2txt"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+version = "0.2.4"
+description = "A simple command line tool to convert rtf files to plain text."
+authors = ["Jonathan Cutrer <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
