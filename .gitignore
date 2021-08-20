@@ -24,6 +24,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 tests/*.txt
-!/**/empty
-dist/
+!/**/.gitkeep
+!.gitkeep
+dist/*
+!dist/.gitkeep
 build/
+!build/.gitkeep
